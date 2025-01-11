@@ -29,4 +29,4 @@ This repository contains an implementation of a Multilayer Perceptron (MLP) desi
 1. Clone the repository:
    ```bash
    https://github.com/Oladipo06/mlp.git
-   cd your-repo-name
+   cd mlp
